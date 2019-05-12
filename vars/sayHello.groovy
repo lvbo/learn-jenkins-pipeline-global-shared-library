@@ -1,3 +1,3 @@
-def sayHello(String str) {
+def call(String str) {
     println "Hello ${str}"
 }
